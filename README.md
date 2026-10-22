@@ -1,7 +1,7 @@
 # Integrantes do grupo
- -Lucas de Pinho Ribeiro dos Santos
- -João Pedro Ferreira da Rocha
- -Jefferson Santana Nogueira
+   - Lucas de Pinho Ribeiro dos Santos
+   - João Pedro Ferreira da Rocha
+   - Jefferson Santana Nogueira
 
 # Sistema de recomendação de filmes com grafo (MovieLens + Neo4j)
 
