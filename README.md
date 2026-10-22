@@ -1,3 +1,8 @@
+# Integrantes do grupo
+ -Lucas de Pinho Ribeiro dos Santos
+ -João Pedro Ferreira da Rocha
+ -Jefferson Santana Nogueira
+
 # Sistema de recomendação de filmes com grafo (MovieLens + Neo4j)
 
 Trabalho de recomendação usando o MovieLens (`ml-latest-small`), só com `ratings.csv` e `movies.csv`. Montei um grafo no Neo4j, calculei a correlação de Pearson entre filmes, guardei isso no próprio grafo e fiz a recomendação com KNN. No final separei 80/20 e medi precisão e recall.
